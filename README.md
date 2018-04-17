@@ -1,6 +1,6 @@
 # What is a Program?
 
-TEST
+TESTING
 
 ### Objectives:
 
